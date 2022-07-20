@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/STUDENTYO/static/css/main.e6c13ad2.css",
+    "main.js": "/STUDENTYO/static/js/main.463c0b64.js",
+    "index.html": "/STUDENTYO/index.html",
+    "main.e6c13ad2.css.map": "/STUDENTYO/static/css/main.e6c13ad2.css.map",
+    "main.463c0b64.js.map": "/STUDENTYO/static/js/main.463c0b64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.463c0b64.js"
+  ]
+}
